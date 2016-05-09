@@ -2,5 +2,10 @@ aaaaaaaaaaaaaaa
 編集したよ！！！！！！！！！！！！！！！！（大山）
 更新渡辺
 更新小西
+<<<<<<< HEAD
 
 ブランチ作ってコミットしたよ
+=======
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dafgadfjasljfd
+>>>>>>> refs/heads/burrrrrannti
